@@ -11,3 +11,18 @@ nav ul li:hover {
 div {
   text-align: center;
 }
+
+button {
+  padding: 10px;
+}
+button:nth-child(1) {
+  background-color: red;
+}
+
+button:nth-child(2) {
+  background-color: blue;
+}
+
+button:nth-child(3) {
+  background-color: green;
+}
